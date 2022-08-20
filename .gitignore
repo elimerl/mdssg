@@ -1,0 +1,4 @@
+build
+node_modules
+# This is cloned using degit or whatever, so lockfiles are bad.
+yarn.lock
