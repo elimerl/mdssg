@@ -5,7 +5,7 @@ A tiny static site generator. Only has 4 dependencies!
 
 ## Setup
 
-Either `git clone` or use `degit` this repository, then run `npm install`. To build the site, run `npm run build`. That's it! Now write whatever site you want.
+Either `git clone` or `degit` this repository, then run `npm install`. To build the site, run `npm run build`. That's it! Now write whatever site you want.
 
 ## Directives
 
